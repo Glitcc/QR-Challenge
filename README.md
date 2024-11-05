@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [your-solution-url.com](https://glitcc.github.io/QR-Challenge/)
+- Solution URL: [glitcc.github.io/QR-Challenge/](https://glitcc.github.io/QR-Challenge/)
 
 ## My process
 
